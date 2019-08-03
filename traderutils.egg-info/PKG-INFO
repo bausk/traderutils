@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: traderutils
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/bausk/traderutils
+Author: Oleksander Bausk
+Author-email: bauskas@gmail.com
+License: UNKNOWN
+Description: Trader utilities
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

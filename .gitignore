@@ -1,0 +1,8 @@
+dist/
+.mypy_cache/
+.venv/
+!.vscode/
+.secrets/
+*.pyc
+*.env
+.ropeproject/
