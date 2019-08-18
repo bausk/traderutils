@@ -1,4 +1,4 @@
-from formats.time import get_utcnow_sql_timestamp, get_unixtime_sql_timestamp, get_stringtime_sql_timestamp
+from ...formats.time import get_utcnow_sql_timestamp, get_unixtime_sql_timestamp, get_stringtime_sql_timestamp
 
 
 def adapt_trades_to_bigquery(trades):
