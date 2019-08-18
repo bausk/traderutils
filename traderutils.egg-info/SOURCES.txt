@@ -1,8 +1,0 @@
-setup.py
-traderutils/__init__.py
-traderutils.egg-info/PKG-INFO
-traderutils.egg-info/SOURCES.txt
-traderutils.egg-info/dependency_links.txt
-traderutils.egg-info/top_level.txt
-traderutils/sources/__init__.py
-traderutils/sources/historical.py

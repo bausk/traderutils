@@ -6,3 +6,5 @@ dist/
 *.pyc
 *.env
 .ropeproject/
+pip-wheel-metadata/
+*.egg-info/
