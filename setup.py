@@ -5,7 +5,7 @@ with open("readme.md", "r") as fh:
 
 setuptools.setup(
     name="traderutils",
-    version="0.0.1",
+    version="0.1.2",
     author="Oleksander Bausk",
     author_email="bauskas@gmail.com",
     description="A small example package",

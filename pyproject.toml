@@ -1,11 +1,13 @@
 [tool.poetry]
 name = "traderutils"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["Alex Bausk <bauskas@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+google-cloud-bigquery = "^1.16"
+cryptography = "^2.8"
 python-dateutil = "^2.8"
 requests = "^2.22"
 
